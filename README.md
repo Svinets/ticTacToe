@@ -1,2 +1,2 @@
 # ticTacToe
-Tic Tac Toe CL Prompt
+Tic Tac Toe playable in command line
